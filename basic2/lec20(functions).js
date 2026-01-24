@@ -1,6 +1,6 @@
 /// usage of rest operator
 
-// function calculator(...num1){
+// function calculator(...num1){//... this is only called the rest and the spread operator
 //     return num1
 // }
 // console.log(calculator(200,300,4000))
