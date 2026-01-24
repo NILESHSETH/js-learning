@@ -1,2 +1,4 @@
-console.log(a)
-// console.log(b)
+const chai = function(){
+    let username = "nilesh"
+    console.log(this.username)
+}
