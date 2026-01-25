@@ -36,11 +36,11 @@ const addTwo = (num1, num2) => {// explacit function
     return num1 + num2
 }
 
-const addTwo = (num1, num2) =>  num1 + num2
+// const addTwo = (num1, num2) =>  num1 + num2
 
-const addTwo = (num1, num2) => ( num1 + num2 )
+// const addTwo = (num1, num2) => ( num1 + num2 )
 
-const addTwo = (num1, num2) => ({username: "hitesh"})/// actual way of retrival//-> implecit function
+// const addTwo = (num1, num2) => ({username: "hitesh"})/// actual way of retrival//-> implecit function
 
 
 console.log(addTwo(3, 4))
